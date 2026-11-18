@@ -98,12 +98,12 @@ All testing was performed within a controlled environment using permitted sample
 
 Unauthorized password testing, credential access, or attempts to access systems without permission are prohibited.
 
-👨‍💻 Author
+ 👤 Author
 
-Cybersecurity Student
+**uzair sayyed**\
+Cybersecurity Professional B084
 
-Learning Linux, Cybersecurity, Ethical Hacking, and Information Security.
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](www.linkedin.com/in/uzer-sayyed-096637442
 
----
 
 ⭐ If you find this repository useful for educational purposes, feel free to explore it.
